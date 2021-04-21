@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>my_string_field</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-16 07:01:54</sys_created_on>
+        <sys_id>f107e6292f232010f916d0e62799b68f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>my_string_field</sys_name>
+        <sys_package display_value="DemoServiceNowApp2" source="x_612851_demoservi">17eb44722f132010f916d0e62799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoServiceNowApp2">17eb44722f132010f916d0e62799b61e</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f107e6292f232010f916d0e62799b68f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-16 07:10:55</sys_updated_on>
+        <table>x_612851_demoservi_my_new_table</table>
+        <ui_policy display_value="My_new_ui_policy">54d790052f232010f916d0e62799b6ef</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

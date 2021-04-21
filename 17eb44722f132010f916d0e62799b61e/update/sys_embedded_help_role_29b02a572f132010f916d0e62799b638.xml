@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_612851_demoservi.my_custom_table_user" name="x_612851_demoservi.my_custom_table_user">adb02a572f132010f916d0e62799b634</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 06:47:14</sys_created_on>
+        <sys_id>29b02a572f132010f916d0e62799b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>adb02a572f132010f916d0e62799b634</sys_name>
+        <sys_package display_value="DemoServiceNowApp2" source="x_612851_demoservi">17eb44722f132010f916d0e62799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoServiceNowApp2">17eb44722f132010f916d0e62799b61e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_29b02a572f132010f916d0e62799b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 06:47:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="My Custom Table" max_length="40" name="x_612851_demoservi_my_custom_table" sizeclass="0" type="collection">
+        <element label="New Integer" max_length="40" name="u_integer_1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>
